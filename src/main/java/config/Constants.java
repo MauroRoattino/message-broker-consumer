@@ -3,7 +3,7 @@ package config;
 
 public class Constants {
 
-    public static final String ACKS_CONFIG = "all";
+    public static final String ACKS_CONFIG = "1";
 
     //public static final Integer  BATCH_SIZE_CONFIG = 1024 * 1024; // 1 MB
 
